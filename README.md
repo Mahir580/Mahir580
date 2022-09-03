@@ -1,5 +1,9 @@
 ## Hi, I'm Mahir👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir580&label=Profile%20views&color=0e75b6&style=plastic" alt="mahir580" /> </p>
+
 # A passionate programmer from Bangladesh ![image](https://user-images.githubusercontent.com/88188721/188273538-91ccf839-2fbf-4a59-9dc7-16aea6fd24a9.png) <br><br> ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88188721/188279036-b0a879ec-c977-4656-96c8-fb7d69e21ecc.gif)
+
 
 ### ![1f4bb](https://user-images.githubusercontent.com/88188721/188279285-ca91a2fb-6214-422e-a74b-948d36ddecc4.png) Languages and Tools: <br>
 
@@ -18,6 +22,4 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahir580&theme=dark" alt="mahir580" /></p><br><br><br><br><br><br><br><br>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Hello"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hello" /></a></p><br><br><br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir580&label=Profile%20views&color=0e75b6&style=plastic" alt="mahir580" /> </p>
+<p><a href="https://www.buymeacoffee.com/Hello"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hello" /></a></p>
