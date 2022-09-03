@@ -2,8 +2,6 @@
 ### A passionate programmer from Bangladesh ![image](https://user-images.githubusercontent.com/88188721/188273538-91ccf839-2fbf-4a59-9dc7-16aea6fd24a9.png)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir580&label=Profile%20views&color=0e75b6&style=flat" alt="mahir580" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/ahmed ahnaf mahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed ahnaf mahir" height="30" width="40" /></a>
@@ -17,3 +15,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahir580&show_icons=true&locale=en&layout=compact" alt="mahir580" /></p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir580&label=Profile%20views&color=0e75b6&style=flat" alt="mahir580" /> </p>
