@@ -13,6 +13,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Hello"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hello" /></a></p><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahir580&show_icons=true&theme=radical&title_color=918d8d&text_color=ffffff&bg_color=9e002f&locale=en" alt="mahir580" /></p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir580&label=Profile%20views&color=0e75b6&style=flat" alt="mahir580" /> </p>
