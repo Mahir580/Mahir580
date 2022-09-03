@@ -1,6 +1,6 @@
 ## Hi, I'm Mahir👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir580&label=Profile%20views&color=0e75b6&style=plastic" alt="mahir580" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir580&label=Profile%20views&color=crimsonstyle=plastic" alt="mahir580" /> </p>
 
 # A passionate programmer from Bangladesh ![image](https://user-images.githubusercontent.com/88188721/188273538-91ccf839-2fbf-4a59-9dc7-16aea6fd24a9.png) <br><br> ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88188721/188279036-b0a879ec-c977-4656-96c8-fb7d69e21ecc.gif)
 
