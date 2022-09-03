@@ -1,4 +1,6 @@
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+## Hi, I'm Mahir👋
+<h3 align="left">A passionate programmer from Bangladesh ![image](https://user-images.githubusercontent.com/88188721/188273538-91ccf839-2fbf-4a59-9dc7-16aea6fd24a9.png)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir580&label=Profile%20views&color=0e75b6&style=flat" alt="mahir580" /> </p>
 
