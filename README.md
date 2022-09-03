@@ -12,7 +12,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahir580&show_icons=true&theme=merko&title_color=80f0ff&text_color=fafafa&bg_color=001a66&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="mahir580" /></p><br><br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahir580&theme=dark" alt="mahir580" /></p><br><br><br><br><br><br><br><br>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support:</h3><br><br><br><br>
 <p><a href="https://www.buymeacoffee.com/Hello"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hello" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahir580&label=Profile%20views&color=0e75b6&style=plastic" alt="mahir580" /> </p>
