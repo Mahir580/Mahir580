@@ -1,4 +1,4 @@
-## 𝑯𝒊, 𝑰'𝒎 𝑴𝒂𝒉𝒊𝒓👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Mahir" src="./assets/gh-readme-header.png" /></a></p>
 
 <p align="center"> 
   Visitors count<br>
