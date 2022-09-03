@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Mahir" src="./assets/gh-readme-header.png" /></a></p>
+![image](https://user-images.githubusercontent.com/88188721/188272292-aaab55d6-99f7-4507-9d19-f8c12f520a04.png)
 
 <p align="center"> 
   Visitors count<br>
