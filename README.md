@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahir580&show_icons=true&theme=synthwave&title_color=94dfff&text_color=ffffff&bg_color=00235c&hide_border=true&locale=en" alt="mahir580" /></p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahir580&show_icons=true&theme=merko&title_color=80f0ff&text_color=fafafa&bg_color=001a66&hide_border=true&locale=en&layout=compact" alt="mahir580" /></p><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahir580&show_icons=true&theme=merko&title_color=80f0ff&text_color=fafafa&bg_color=001a66&hide_border=true&locale=en&layout=compact" alt="mahir580" /></p><br><br><br><br><br><br><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Hello"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hello" /></a></p><br><br>
 
